@@ -1,0 +1,156 @@
+
+body {
+    background-color: #111114;
+    color: #eeeeee;
+    font-family: Arial, sans-serif;
+}
+
+.marca {
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.marca span {
+    color: #c5223d;
+}
+
+.nav-link {
+    color: #cccccc;
+}
+
+.nav-link:hover {
+    color: #c5223d;
+}
+
+.presentacion {
+    padding: 100px 15px;
+    max-width: 850px;
+    margin: auto;
+}
+
+.texto-rojo {
+    color: #c5223d;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.presentacion h1 {
+    font-size: 48px;
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+.presentacion h1 span {
+    color: #c5223d;
+}
+
+.descripcion-inicio {
+    color: #aaaaaa;
+    font-size: 18px;
+    line-height: 1.7;
+    margin-bottom: 30px;
+}
+
+.btn-akatsuki {
+    background-color: #b51f36;
+    color: white;
+    padding: 11px 25px;
+    border: none;
+}
+
+.btn-akatsuki:hover {
+    background-color: #8f172a;
+    color: white;
+}
+
+.secciones {
+    max-width: 900px;
+    margin: auto;
+}
+
+.seccion-card {
+    background-color: #1b1b20;
+    border: 1px solid #34343a;
+    border-left: 4px solid #b51f36;
+    border-radius: 8px;
+    padding: 25px;
+    margin-bottom: 18px;
+}
+
+.numero {
+    color: #c5223d;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.seccion-card h2 {
+    font-size: 25px;
+    margin: 5px 0;
+}
+
+.seccion-card p {
+    color: #aaaaaa;
+    margin-bottom: 0;
+}
+
+.btn-vermas {
+    color: #eeeeee;
+    border: 1px solid #b51f36;
+}
+
+.btn-vermas:hover {
+    background-color: #b51f36;
+    color: white;
+}
+
+.contenido {
+    border-top: 1px solid #34343a;
+    margin-top: 22px;
+    padding-top: 22px;
+}
+
+.contenido h3 {
+    color: #eeeeee;
+    font-size: 19px;
+    margin-bottom: 12px;
+}
+
+.contenido p {
+    line-height: 1.7;
+    margin-bottom: 15px;
+}
+
+.habilidad {
+    display: inline-block;
+    background-color: #29292f;
+    color: #e2e2e2;
+    padding: 7px 12px;
+    border-radius: 5px;
+    font-size: 13px;
+}
+
+.proyecto {
+    background-color: #24242a;
+    padding: 20px;
+    border-radius: 7px;
+    height: 100%;
+}
+
+.proyecto h3 {
+    color: #c5223d;
+}
+
+.proyecto p {
+    margin-bottom: 15px;
+}
+
+footer {
+    color: #888888;
+    margin-top: 60px;
+    border-top: 1px solid #29292f;
+}
+
+footer span {
+    font-size: 13px;
+}
